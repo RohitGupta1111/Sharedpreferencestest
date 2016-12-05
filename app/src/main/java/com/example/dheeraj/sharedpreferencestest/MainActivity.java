@@ -11,6 +11,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+//test change
     EditText editText1;
     EditText editText2;
     Button save,next;
